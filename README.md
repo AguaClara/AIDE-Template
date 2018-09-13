@@ -8,8 +8,6 @@ Eric Dalpe (ed422)
 
 Connor Li (cl852)
 
-Yvonne Chan (yc686)
-
 Elena Pertsalis (ep447)
 
 Jacob Wyrick (jmw497)
