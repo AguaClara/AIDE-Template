@@ -1,2 +1,15 @@
 # AIDE-Template
-This is the spot for AIDE-Template for Fall 2018. We will update issues here.
+
+## Design Objective
+Create a paramterizable OnShape design that can systematically update based on user inputs
+
+## Team Members
+Eric Dalpe (ed422)
+
+Connor Li (cl852)
+
+Yvonne Chan (yc686)
+
+Elena Pertsalis (ep447)
+
+Jacob Wyrick (jmw497)
