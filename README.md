@@ -11,3 +11,7 @@ Connor Li (cl852)
 Elena Pertsalis (ep447)
 
 Jacob Wyrick (jmw497)
+
+Paul Rozzi (pgr38)
+
+Timothy Reeves (tjr239)
