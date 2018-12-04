@@ -16,5 +16,8 @@ Paul Rozzi (pgr38)
 
 Timothy Reeves (tjr239)
 
-Link to Symposium Presentation:
+## Link to Symposium Presentation:
 https://docs.google.com/presentation/d/18S4u9F0vcU3epW0wcBCJddLFblQkTKons62CGUu_L_M/edit#slide=id.g4533ab6ade_0_17
+
+## Link to Final Video Presentation:
+https://drive.google.com/file/d/1csZFzd4yCpQle94GiSBpbKajQTaA7ppp/view?usp=sharing
