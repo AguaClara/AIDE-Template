@@ -18,5 +18,8 @@ Timothy Reeves (tjr239)
 
 Lydia Choi (lc796)
 
-Link to Symposium Presentation:
-https://docs.google.com/presentation/d/18Ioj1Ouxqf0wEGJbXomCN8p8UVov4qU1K9eAbf0kzt8/edit?usp=sharing
+Link to Final Presentation Video:
+https://www.youtube.com/watch?v=61lleQzHy80&list=PLhsGtpY8ipdZL4lExJA8KC0zCkaxwfs8R&index=11&t=0s
+
+Link to Final Presentation Slides:
+https://docs.google.com/presentation/d/113yUQKB3juNQa08s3uHU6v9tC2JAcqZNG8UPt425_7o/edit?usp=sharing
